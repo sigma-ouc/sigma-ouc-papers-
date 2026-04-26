@@ -11,3 +11,5 @@
 | Automatic Channel Pruning by Searching with Structure Embedding for Hash Network | 2026 | Proceedings of the 40th AAAI Conference on Artificial Intelligence<br>(CCF A, acceptance rate=4167/23680=17.6%) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/39029) | TODO|
 | Multiplex Heterogeneous Graph Neural Networks with Euclidean-Riemannian Mutual Space Synergy | 2026 | Proceedings of the 40th AAAI Conference on Artificial Intelligence<br>(CCF A, acceptance rate=4167/23680=17.6%) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38536) | [Code](https://github.com/sigma-ouc/2026AAAI-MRiemGNN)|
 | S²HyRec: Self-Supervised Hypergraph Sequential Recommendation | 2026 | Proceedings of the 40th AAAI Conference on Artificial Intelligence<br>(CCF A, acceptance rate=4167/23680=17.6%) | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38566) | [Code](https://github.com/sigma-ouc/2026AAAI-S2HyRec)|
+| Multi-Channel Hypergraph Contrastive Learning for Matrix Completion | 2025 | ACM Transactions on Information Systems<br>(CCF A) | [Paper](https://dl.acm.org/doi/full/10.1145/3768319) | [Code](https://github.com/sigma-ouc/2025TOIS-MHCL)|
+
