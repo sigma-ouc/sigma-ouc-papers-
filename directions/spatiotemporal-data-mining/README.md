@@ -21,4 +21,5 @@
 | MCN4Rec: Multi-level Collaborative Neural Network for Next Location Recommendation | 2024 | ACM Transactions on Information Systems<br>(CCF A) | [Paper](https://doi.org/10.1145/3643669) | [Code](https://github.com/sigma-ouc/2024TOIS-MCN4Rec) |
 | Skillful prediction of Indian monsoon intraseasonal precipitation using Central Indian Ocean mode and machine learning | 2024 | Geophysical Research Letters<br>(JCR Q1) | [Paper]( https://doi.org/10.1029/2024gl112308) |TODO |
 | Adaptive Spatio-Temporal Graph Recurrent Network for Sea Surface Temperature Forecasting | 2024 | IEEE Transactions on Geoscience and Remote Sensing<br>(CAAI A) | [Paper]( 10.1109/TGRS.2024.3502841) | TODO |
+| Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks | 2024 | ACM Transactions on Knowledge Discovery from Data<br>(CCF B) | [Paper](https://doi.org/10.1145/3635718) | [Code](https://github.com/sigma-ouc/2024TKDD-AttnTUL) |
 
