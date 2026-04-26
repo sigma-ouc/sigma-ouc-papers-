@@ -17,3 +17,4 @@
 | 面向节点分类的多层异质图神经网络 | 2025 | 软件学报<br>(CCF A) | [Paper](10.13328/j.cnki.jos.007440) | TODO|
 | Dual-Channel Multiplex Graph Neural Networks for Recommendation | 2025 | IEEE Transactions on Knowledge and Data Engineering<br>(CCF A) | [Paper](10.1109/TKDE.2025.3544081) | [Code](https://github.com/sigma-ouc/2025TKDE-DCMGNN)|
 | Hierarchical Graph Contrastive Learning for Review-Enhanced Recommendation | 2024 | Joint European Conference on Machine Learning and Knowledge Discovery in Databases<br>(CCF B, acceptance rate=198/826=24%) | [Paper](https://doi.org/10.1007/978-3-031-70365-2_25) | [Code](https://github.com/sigma-ouc/2024PKDD-HGCL)|
+| Hypergraph Hash Learning for Efficient Trajectory Similarity Computation | 2024 | Joint European Conference on Machine Learning and Knowledge Discovery in Databases<br>(CCF B, acceptance rate=198/826=24%) | [Paper](https://doi.org/10.1145/3627673.3679555) | [Code](https://github.com/sigma-ouc/2024CIKM-HHL-Traj)|
