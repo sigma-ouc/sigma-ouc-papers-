@@ -6,5 +6,5 @@
 
 | title | year | venue | paper | code |
 |---|---:|---|---|---|
-| Trajectory Similarity Hash Learning with Spatio-Temporal GRU | 2026 | IEEE Transactions on Big Data<br>(JCR Q2, CCF C) | [Paper](https://example.com/paper-link) | [Code](https://github.com/your-lab/2026-tbd-trajectory-similarity-stgru) |
-| DGraFormer: Dynamic Graph Learning Guided Multi-Scale Transformer for Multivariate Time Series Forecasting | 2025 | Proceedings of the 34th International Joint Conference on Artificial Intelligence<br>(CCF A, acceptance rate=1042/5404=19.3%) | TODO | [Code](https://github.com/your-lab/2025-ijcai-dgraformer) |
+| Weighted Graph Clustering via Scale Contraction and Graph Structure Learning | 2026 | Proceedings of the ACM Web Conference<br>(CCF A, acceptance rate=676/3370=20.1%) | [Paper](https://dl.acm.org/doi/10.1145/3774904.3792363) | TODO |
+
