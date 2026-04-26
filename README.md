@@ -12,6 +12,7 @@
 | [Graph Neural Networks](./directions/graph-neural-networks/README.md) | `graph-neural-networks` | 8 |
 | [Graph Data Mining](./directions/graph-data-mining/README.md) | `graph-data-mining` | 5 |
 | [Multivariate Time Series Forecasting](./directions/multivariate-time-series-forecasting/README.md) | `multivariate-time-series-forecasting` | 3 |
+| [Edge Computing](./directions/edge-computing/README.md) | `edge-computing` | 3 |
 
 ## 维护规则
 
