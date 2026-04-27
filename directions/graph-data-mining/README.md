@@ -13,6 +13,5 @@
 | Motif-Preserving Dynamic Attributed Network Embedding | 2021 | Proceedings of the Web Conference<br>(CCF A, acceptance rate=355/1736=20.4%) | [Paper](https://doi.org/10.1145/3442381.3449821) | [Code](https://github.com/sigma-ouc/2021WWW-MTSN) |
 | Fast Attributed Multiplex Heterogeneous Network Embedding | 2020 | Proceedings of the 29th ACM International Conference on Information and Knowledge Management<br>(CCF B, acceptance rate=194/970=20%) | [Paper](https://doi.org/10.1145/3340531.3411944) | [Code](https://github.com/sigma-ouc/2020CIKM-FAME) |
 | Dynamic Representation Learning for Large-Scale Attributed Networks | 2020 | Proceedings of the 29th ACM International Conference on Information and Knowledge Management<br>(CCF B, acceptance rate=194/970=20%) | [Paper](https://doi.org/10.1145/3340531.3411945) | [Code](https://github.com/sigma-ouc/2020CIKM-DRLAN) |
-
-
+| Student Performance Prediction based on Multi-View Network Embedding | 2020 | 3rd Chinese Conference on Pattern Recognition and Computer Vision<br>(CCF C) | [Paper](https://doi.org/10.1007/978-3-030-60636-7_11) | TODO |
 
