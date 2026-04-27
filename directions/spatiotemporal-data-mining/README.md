@@ -29,3 +29,4 @@
 | Spatio-Temporal Representation Learning with Social Tie for Personalized POI Recommendation | 2022 | Data Science and Engineering<br>(CCF C) | [Paper](https://doi.org/10.1007/s41019-022-00180-w) | TODO |
 | Citywide Traffic Volume Inference with Surveillance Camera Records | 2021 | IEEE Transactions on Big Data<br>(CCF C) | [Paper]( 10.1109/TBDATA.2019.2935057) | TODO |
 | Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties | 2021 | The 26th International Conference on Database System for Advanced Applications<br>(CCF B, acceptance rate=98/490=20%, 优秀论文) | [Paper](https://doi.org/10.1007/978-3-030-73194-6_37) | [Code](https://github.com/sigma-ouc/2021DASFAA-PPR-master) |
+| Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data | 2020 | Knowledge-Based Systems<br>(CCF C) | [Paper](https://doi.org/10.1016/j.knosys.2020.105766) | TODO |
