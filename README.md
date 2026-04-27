@@ -37,10 +37,12 @@ All code links point by default to source code repositories forked or maintained
 
 | Research Direction | Slug | Number of Papers in Main Research Direction |
 |---|---|---:|
-| [Spatiotemporal Data Mining](./directions/spatiotemporal-data-mining/README.md) | `spatiotemporal-data-mining` | 8 |
-| [Graph Neural Networks](./directions/graph-neural-networks/README.md) | `graph-neural-networks` | 8 |
-| [Graph Data Mining](./directions/graph-data-mining/README.md) | `graph-data-mining` | 5 |
-| [Multivariate Time Series Forecasting](./directions/multivariate-time-series-forecasting/README.md) | `multivariate-time-series-forecasting` | 3 |
+| [Spatiotemporal Data Mining](./directions/spatiotemporal-data-mining/README.md) | `spatiotemporal-data-mining` | 26 |
+| [Graph Neural Networks](./directions/graph-neural-networks/README.md) | `graph-neural-networks` | 20 |
+| [Graph Data Mining](./directions/graph-data-mining/README.md) | `graph-data-mining` | 4 |
+| [Multivariate Time Series Forecasting](./directions/multivariate-time-series-forecasting/README.md) | `multivariate-time-series-forecasting` | 4 |
+| [Edge Computing](./directions/edge-computing/README.md) | `edge-computing` | 2 |
+| [Data Mining](./directions/data-mining/README.md) | `data-mining` | 7 |
 
 ## Maintenance Rules
 
