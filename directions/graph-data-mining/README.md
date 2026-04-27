@@ -11,3 +11,8 @@
 | MoTTo: Scalable Motif Counting with Time-aware Topology Constraint for Large-scale Temporal Graphs | 2024 | Proceedings of the 33rd ACM International Conference on Information and Knowledge Management<br>(CCF B, acceptance rate=347/1496=23%) | [Paper](https://doi.org/10.1145/3627673.3679694) | TODO |
 | Scalable Motif Counting for Large-scale Temporal Graphs | 2022 | Proceedings of 38th IEEE International Conference on Data Engineering<br>(CCF A, acceptance rate=211/780=27.1%) | [Paper](10.1109/ICDE53745.2022.00244) | [Code](https://github.com/sigma-ouc/2022ICDE-FAST-temporal-motif) |
 | Motif-Preserving Dynamic Attributed Network Embedding | 2021 | Proceedings of the Web Conference<br>(CCF A, acceptance rate=355/1736=20.4%) | [Paper](https://doi.org/10.1145/3442381.3449821) | [Code](https://github.com/sigma-ouc/2021WWW-MTSN) |
+| Fast Attributed Multiplex Heterogeneous Network Embedding | 2020 | Proceedings of the 29th ACM International Conference on Information and Knowledge Management<br>(CCF B, acceptance rate=194/970=20%) | [Paper](https://doi.org/10.1145/3340531.3411944) | [Code](https://github.com/sigma-ouc/2020CIKM-FAME) |
+| Dynamic Representation Learning for Large-Scale Attributed Networks | 2020 | Proceedings of the 29th ACM International Conference on Information and Knowledge Management<br>(CCF B, acceptance rate=194/970=20%) | [Paper](https://doi.org/10.1145/3340531.3411945) | [Code](https://github.com/sigma-ouc/2020CIKM-DRLAN) |
+
+
+
