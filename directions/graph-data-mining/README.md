@@ -10,4 +10,4 @@
 | UMGAD: Unsupervised Multiplex Graph Anomaly Detection | 2025 | Proceedings of 41th IEEE International Conference on Data Engineering<br>(CCF A, acceptance rate=300/1465=20.5%) | [Paper](10.1109/ICDE65448.2025.00278) | [Code](https://github.com/sigma-ouc/2025ICDE-UMGAD) |
 | MoTTo: Scalable Motif Counting with Time-aware Topology Constraint for Large-scale Temporal Graphs | 2024 | Proceedings of the 33rd ACM International Conference on Information and Knowledge Management<br>(CCF B, acceptance rate=347/1496=23%) | [Paper](https://doi.org/10.1145/3627673.3679694) | TODO |
 | Scalable Motif Counting for Large-scale Temporal Graphs | 2022 | Proceedings of 38th IEEE International Conference on Data Engineering<br>(CCF A, acceptance rate=211/780=27.1%) | [Paper](10.1109/ICDE53745.2022.00244) | [Code](https://github.com/sigma-ouc/2022ICDE-FAST-temporal-motif) |
-
+| Motif-Preserving Dynamic Attributed Network Embedding | 2021 | Proceedings of the Web Conference<br>(CCF A, acceptance rate=355/1736=20.4%) | [Paper](https://doi.org/10.1145/3442381.3449821) | [Code](https://github.com/sigma-ouc/2021WWW-MTSN) |
