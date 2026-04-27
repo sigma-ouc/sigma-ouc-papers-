@@ -25,3 +25,5 @@
 | Dynamic Multi-View Graph Neural Networks for Citywide Traffic Inference | 2023 | ACM Transactions on Knowledge Discovery from Data<br>(CCF B) | [Paper](https://doi.org/10.1145/3564754) | [Code](https://github.com/sigma-ouc/2023PKDD-CTVI)|
 | Heterogeneous graph neural network for attribute completion | 2022 | Knowledge-Based Systems<br>(JCR Q1, CCF C) | [Paper](https://doi.org/10.1016/j.knosys.2022.109171) | [Code](https://github.com/sigma-ouc/2022KBS-AC-HEN)|
 | Multiplex Heterogeneous Graph Convolutional Network | 2022 | Proceedings of 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining<br>(CCF A, acceptance rate=254/1695=15%) | [Paper](https://doi.org/10.1145/3534678.3539482) | [Code](https://github.com/sigma-ouc/2022KDD-MHGCN)|
+| Temporal Multi-view Graph Convolutional Networks for Citywide Traffic Volume Inference | 2021 | Proceedings of 21st IEEE International Conference on Data Mining<br>(CCF B, acceptance rate=198/990=20%) | [Paper](10.1109/ICDM51629.2021.00120) | [Code](https://github.com/sigma-ouc/2021ICDM-CTVI-master)|
+
