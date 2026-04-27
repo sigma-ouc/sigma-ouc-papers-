@@ -27,3 +27,4 @@
 | PreCLN: Pretrained-based Contrastive Learning Network for Vehicle Trajectory Prediction | 2023 | World Wide Web Journal<br>(CCF B) | [Paper](https://doi.org/10.21203/rs.3.rs-2121114/v1) | TODO |
 | Mutual Distillation Learning Network for Trajectory-User Linking | 2022 | Proceedings of the 31st International Joint Conference on Artificial Intelligence<br>(CCF A, acceptance rate=681/4535=15%) | [Paper](http://dx.doi.org/10.24963/ijcai.2022/274) | [Code](https://github.com/sigma-ouc/2022IJCAI-MainTUL) |
 | Spatio-Temporal Representation Learning with Social Tie for Personalized POI Recommendation | 2022 | Data Science and Engineering<br>(CCF C) | [Paper](https://doi.org/10.1007/s41019-022-00180-w) | TODO |
+| Citywide Traffic Volume Inference with Surveillance Camera Records | 2021 | IEEE Transactions on Big Data<br>(CCF C) | [Paper]( 10.1109/TBDATA.2019.2935057) | TODO |
