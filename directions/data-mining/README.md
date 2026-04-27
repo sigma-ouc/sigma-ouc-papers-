@@ -11,4 +11,4 @@
 | Anomaly Detection in High-Dimensional Data Based on Autoregressive Flow | 2020 | 25th International Conference on Database System for Advanced Applications<br>(CCF B, acceptance rate=119/487=24.4%) | [Paper](https://doi.org/10.1007/978-3-030-59416-9_8) | TODO |
 | 基于密度的Top-n局部异常点快速检测算法 | 2019 | 自动化学报<br>(CCF A) | [Paper](10.16383/j.aas.c180425) | [Code](https://github.com/sigma-ouc/2019AAS-TopNDetection) |
 | Region Compatibility based Stability Assessment for Decision Trees | 2018 | Expert Systems with Applications<br>(CCF C) | [Paper](https://doi.org/10.1016/j.eswa.2018.03.036) | TODO |
-
+| Outlier Detection over Massive-Scale Trajectory Streams | 2017 | ACM Transactions on Database Systems<br>(CCF A) | [Paper](http://dx.doi.org/10.1145/3013527) | TODO |
