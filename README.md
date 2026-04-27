@@ -10,7 +10,7 @@
 |---|---|---:|
 | [Spatiotemporal Data Mining](./directions/spatiotemporal-data-mining/README.md) | `spatiotemporal-data-mining` | 26 |
 | [Graph Neural Networks](./directions/graph-neural-networks/README.md) | `graph-neural-networks` | 20 |
-| [Graph Data Mining](./directions/graph-data-mining/README.md) | `graph-data-mining` | 10 |
+| [Graph Data Mining](./directions/graph-data-mining/README.md) | `graph-data-mining` | 4 |
 | [Multivariate Time Series Forecasting](./directions/multivariate-time-series-forecasting/README.md) | `multivariate-time-series-forecasting` | 3 |
 | [Edge Computing](./directions/edge-computing/README.md) | `edge-computing` | 3 |
 | [Data Mining](./directions/data-mining/README.md) | `data-mining` | 3 |
