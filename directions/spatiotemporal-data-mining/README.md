@@ -24,3 +24,4 @@
 | Trajectory-User Linking via Hierarchical Spatio-Temporal Attention Networks | 2024 | ACM Transactions on Knowledge Discovery from Data<br>(CCF B) | [Paper](https://doi.org/10.1145/3635718) | [Code](https://github.com/sigma-ouc/2024TKDD-AttnTUL) |
 | Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank | 2023 | Proceedings of the 32nd ACM International Conference on Information and Knowledge Management<br>(CCF B, acceptance rate=354/1472=24%) | [Paper](https://doi.org/10.1145/3583780.3614829) | [Code](https://github.com/sigma-ouc/2023CIKM-TPB) |
 | Self-supervised contrastive representation learning for large-scale trajectories | 2023 | Future Generation Computer Systems<br>(JCR Q1, CCF C) | [Paper](https://doi.org/10.1016/j.future.2023.05.033) | TODO |
+| PreCLN: Pretrained-based Contrastive Learning Network for Vehicle Trajectory Prediction | 2023 | World Wide Web Journal<br>(CCF B) | [Paper](https://doi.org/10.21203/rs.3.rs-2121114/v1) | TODO |
