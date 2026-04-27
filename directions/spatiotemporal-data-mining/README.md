@@ -31,3 +31,4 @@
 | Personalized POI Recommendation: Spatio-Temporal Representation Learning with Social Ties | 2021 | The 26th International Conference on Database System for Advanced Applications<br>(CCF B, acceptance rate=98/490=20%, 优秀论文) | [Paper](https://doi.org/10.1007/978-3-030-73194-6_37) | [Code](https://github.com/sigma-ouc/2021DASFAA-PPR-master) |
 | Find You If You Drive: Inferring Home Locations for Vehicles with Surveillance Camera Data | 2020 | Knowledge-Based Systems<br>(CCF C) | [Paper](https://doi.org/10.1016/j.knosys.2020.105766) | TODO |
 | 面向位置大数据的快速密度聚类算法 | 2018 | 软件学报<br>(CCF A) | [Paper](10.13328/j.cnki.jos.005289) | TODO |
+| Discovering Evolving Moving Object Groups from Massive-Scale Trajectory Streams | 2017 | International Conference on Mobile Data Management<br>(CCF C, acceptance rate=20/75=26.7%) | [Paper](10.1109/MDM.2017.42) | TODO |
