@@ -12,3 +12,4 @@
 | 基于密度的Top-n局部异常点快速检测算法 | 2019 | 自动化学报<br>(CCF A) | [Paper](10.16383/j.aas.c180425) | [Code](https://github.com/sigma-ouc/2019AAS-TopNDetection) |
 | Region Compatibility based Stability Assessment for Decision Trees | 2018 | Expert Systems with Applications<br>(CCF C) | [Paper](https://doi.org/10.1016/j.eswa.2018.03.036) | TODO |
 | Outlier Detection over Massive-Scale Trajectory Streams | 2017 | ACM Transactions on Database Systems<br>(CCF A) | [Paper](http://dx.doi.org/10.1145/3013527) | TODO |
+| An Effective and Efficient Hierarchical K-means Clustering Algorithm | 2017 | International Journal of Distributed Sensor Networks<br>(CCF C) | [Paper](10.1177/1550147717728627) | TODO |
